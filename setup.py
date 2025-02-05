@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='here-log',                            # The name of the package
-    version='1.0.0',                        # Package version
+    name='here_log',                            # The name of the package
+    version='1.0.1',                        # Package version
     description='A package to print the current position in code',
     long_description=open('README.md').read(),  # Optional: long description from the README file
     long_description_content_type='text/markdown',

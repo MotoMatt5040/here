@@ -4,7 +4,7 @@ This package prints the current position (file name, line number) in your code.
 You can use it as follows:
 
 ```python
-import here
+from here import here
 
 # Print the position
 print(here)
